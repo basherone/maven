@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 12 23:51:55 CST 2016
+bodyeditor-2.9.2.jar>=
+bodyeditor-2.9.2.pom>=
+bodyeditor-2.9.2-sources.jar>=
